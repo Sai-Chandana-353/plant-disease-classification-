@@ -34,7 +34,7 @@ Environment: Virtual Environment (venv) for dependency isolation
 3️⃣ The system displays results with disease details and prevention suggestions.
 ### 🏃‍♂️ Getting Started
 1️⃣ Clone the Repository
-git clone https://github.com/Sai-Chandana-353/plant-disease-classification.git
+git clone https://github.com/Sai-Chandana-353/plant-disease-classification-.git
 cd plant-disease-classification
 2️⃣ Set Up Virtual Environment
 python -m venv venv
